@@ -1,19 +1,19 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Financial Learning Platform in AEM 
+  position: AEM Tech Lead
+  duration: April, 2018 &mdash; Present
+  summary: Responsible for designing, implementing ,migrating and maintaining a financial learing application in AEM. 	<ul class="resume-item-list"><li>Migrating to Adobe Managed Services Cloud</li><li>Work with UI Team for Headless AEM implementation for an Angular Front End</li><li>Implement Search</li><li>Manage Dispatcher filters, redirects and caching strategies</li><li>Manage Akamai CDN cache</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: MVP for Financial Product Portal using AEM
+  position: AEM Lead/Senior Developer
+  duration:  April,2017 &mdash; April, 2018
+  summary: Responsible for  implementing  and maintaining a credit card portal in AEM. 	<ul class="resume-item-list"><li>Create a card benefits portal for premium and standard users</li><li>ICreate components in Sightly</li><li>Work with UI team to integrate Angular components in authoring view for benefit selection</li></ul>
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Creating a Multilingual Company Website and Brand Portal in AEM 
+  position: AEM Senior Developer
+  duration: Jun, 2014  &mdash; April, 2017
+  summary: Implementing and migrating AEM sites across digital and traditional media channels for a product based company. <ul class="resume-item-list"><li>Migrating content from InterWoven to AEM</li><li>Create a Brand Portal Website</li><li>Using third party Translation connectors with AEM for content translation in 16 different locales </li><li>Maintain AEM instances, services, hot fixes, service packs and updates</li></ul>
