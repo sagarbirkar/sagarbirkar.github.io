@@ -1,12 +1,33 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+
+# Content Management Frameworks
+- skill: Content Management Frameworks
+  description: End to End implementation of key deliverables using Adobe Experience Manager
+
+# Java Frameworks
+- skill: Java Frameworks
+  description: Working with OSGI, Spring Batch and Spring Boot Frameworks 
+
+# Front End Frameworks
+- skill: Front End Frameworks
+  description: Exposure of Angular, JS and CSS
+
+# Cloud Frameworks
+- skill: Cloud Framworks
+  description: Working with Amazon and Azure Cloud
+
+# Data Querying and Science
+- skill: Data Querying and Science Framworks
+  description: Working with SQL and Python languages
+
+# CDN Frameworks
+- skill: CDN Framework
+  description: Setting up Akamai Flushes and Netstorage Caching
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Adobe Target and Analytics
+  description: 1+ year working with Adobe Target and Analytics Implementation
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+
+
+
