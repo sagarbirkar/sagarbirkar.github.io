@@ -3,8 +3,7 @@
 - company: Financial Learning Platform in AEM 
   position: AEM Tech Lead
   duration: April, 2018 &mdash; Present
-  summary: Responsible for designing, implementing ,migrating and maintaining a financial learing application in AEM. 	<ul class="resume-item-list"><li>Migrating to Adobe Managed Services Cloud</li><li>Work with UI Team for Headless AEM implementation for an Angular Front End</li><li>Implement Search</li><li>Manage Dispatcher filters, redirects and caching strategies</li><li>Manage Akamai CDN cache</li></ul>
-
+  summary: Responsible for designing, implementing ,migrating and maintaining a financial learing application in AEM.<ul class="resume-item-list"><li>Security Architecture of Cloud based AEM application</li><li>Development for all business components including workflows</li><li>Migrating AEM 6.4 to Adobe Managed Services Cloud</li><li>Worked with UI Team for Headless AEM implementation for an Angular Front End</li><li>Worked with infra teams to set Dispatcher filters, redirects and caching strategies</li><li>Worked on Spring Batch scheduler for client onboarding</li><li>Maintaining Java Backend API using Jax-RS for AEM</li><li>Implement Search functionality an Search API called IDOL</li><li>Working with performance teams to asses the performance of the application</li></ul>
 # Director of Digital Stratgy
 - company: MVP for Financial Product Portal using AEM
   position: AEM Lead/Senior Developer
