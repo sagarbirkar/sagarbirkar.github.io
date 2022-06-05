@@ -6,7 +6,7 @@
 
 # Java Frameworks
 - skill: Java Frameworks
-  description: Working with OSGI, Spring Batch and Spring Boot Frameworks 
+  description: Working with OSGI, Spring Batch and Spring Boot Frameworks
 
 # Front End Frameworks
 - skill: Front End Frameworks
@@ -14,7 +14,7 @@
 
 # Cloud Frameworks
 - skill: Cloud Framworks
-  description: Working with Amazon and Azure Cloud
+  description: Exposure to Amazon and Azure Cloud
 
 # Data Querying and Science
 - skill: Data Querying and Science Framworks
@@ -27,7 +27,3 @@
 # Communications strategy
 - skill: Adobe Target and Analytics
   description: 1+ year working with Adobe Target and Analytics Implementation
-
-
-
-
