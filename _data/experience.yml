@@ -1,9 +1,13 @@
 # Jobs
 # VP of Global Communications
+- company: Financial Marketing Platform in Adobe Marketing Cloud
+  position: AEM Tech Lead
+  duration: Jan, 2024 &mdash; Present
+  summary: Responsible for designing, implementing and maintaning Marketing content in AEM Experience Cloud and AEM. <ul class="resume-item-list"><li>Creating Banners using Experience Fragments in AEM</li><li>Development for all AEM components required for creating marketing content</li><li>Creating publish workflows required for exporting AEM content to Adobe Target</li></ul> 
 - company: Financial Learning Platform in AEM 
   position: AEM Tech Lead
-  duration: April, 2018 &mdash; Present
-  summary: Responsible for designing, implementing ,migrating and maintaining a financial learing application in AEM.<ul class="resume-item-list"><li>Security Architecture of Cloud based AEM application</li><li>Development for all business components including workflows</li><li>Migrating AEM 6.4 to Adobe Managed Services Cloud</li><li>Worked with UI Team for Headless AEM implementation for an Angular Front End</li><li>Worked with infra teams to set Dispatcher filters, redirects and caching strategies</li><li>Worked on Spring Batch scheduler for client onboarding</li><li>Maintaining Java Backend API using Jax-RS for AEM</li><li>Implement Search functionality an Search API called IDOL</li><li>Working with performance teams to asses the performance of the application</li></ul>
+  duration: April, 2018 &mdash; December, 2023
+  summary: Responsible for designing, implementing ,migrating and maintaining a financial learing application in AEM.<ul class="resume-item-list"><li>Migrating of on Prem AEM application to Azure Cloud </li><li>Security Architecture of Cloud based AEM application</li><li>Development for all business components including workflows</li><li>Migrating AEM 6.4 to Adobe Managed Services Cloud</li><li>Worked with UI Team for Headless AEM implementation for an Angular Front End</li><li>Worked with infra teams to set Dispatcher filters, redirects and caching strategies</li><li>Worked on Spring Batch scheduler for client onboarding</li><li>Maintaining Java Backend API using Jax-RS for AEM</li><li>Implement Search functionality an Search API called IDOL</li><li>Working with performance teams to asses the performance of the application</li></ul>
 # Director of Digital Stratgy
 - company: MVP for Financial Product Portal using AEM
   position: AEM Lead/Senior Developer
