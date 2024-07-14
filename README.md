@@ -1,5 +1,5 @@
 # sagarbirkar.github.io
-This is just a test commit. Want to see if everything is still working.
+This is a new test commit. Want to see if everything is still working.
 Steps:
 git add <file name>
 git status
