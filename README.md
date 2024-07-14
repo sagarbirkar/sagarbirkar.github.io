@@ -6,6 +6,14 @@ git status
 git commit -m 'Committ Message>'
 git status -s
 git push -u https://<username>:<access_token>@<remote-url-without-https> main//
-//git push origin main
+//git push origin main only if token valid
 <Enter username and password token in you github profile>
+
+Running locally:
+To test locally, run the following in your terminal:
+
+Clone repo locally
+bundle install
+bundle exec jekyll serve
+Open your browser to localhost:4000
 
